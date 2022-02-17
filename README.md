@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Rust, golang, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [soumyaranjanpatnaik.me](https://soumyaranjanpatnaik.me)
+- 👨‍💻 All of my projects are available at [soumyaranjanpatnaik.me](http://soumyaranjanpatnaik.me)
 
-- 📝 I regularly write articles on [soumyaranjanpatnaik.me/blogs](https://soumyaranjanpatnaik.me/blogs)
+- 📝 I regularly write articles on [soumyaranjanpatnaik.me/blogs](http://soumyaranjanpatnaik.me/blogs)
 
 - 💬 Ask me about **C++, ReactJs, ExpressJs, NestJs**
 
