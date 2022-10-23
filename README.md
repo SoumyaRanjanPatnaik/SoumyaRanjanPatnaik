@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyaranjanpatnaik" alt="soumyaranjanpatnaik" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, golang, Computer Vision**
+- 🌱 I’m currently learning **Rust and Deep Learning**
 
 - 👨‍💻 All of my projects will soon be available at my portfolio: [soumyaranjanpatnaik.me](http://soumyaranjanpatnaik.me)
 
-- 📝 I regularly write articles on [soumyaranjanpatnaik.me/blogs](http://soumyaranjanpatnaik.me/blogs)
+<!-- - 📝 I regularly write articles on [soumyaranjanpatnaik.me/blogs](http://soumyaranjanpatnaik.me/blogs) -->
 
 - 💬 Ask me about **C++, ReactJs, ExpressJs, NestJs**
 
