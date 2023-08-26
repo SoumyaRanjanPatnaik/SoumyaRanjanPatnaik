@@ -42,12 +42,14 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaRanjanPatnaik&bg_color=0d1117&color=00bfc2&line=00696b&point=00ffff&area=true&hide_border=true" width="100%"/> 
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanPatnaik&theme=react&hide_border=true" height="150px"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/SoumyaRanjanPatnaik/SoumyaRanjanPatnaik/assets/75623505/a7f014b3-269c-43d2-b4da-2a64290193fe" height="180px"/>
+      <img src="https://github.com/SoumyaRanjanPatnaik/SoumyaRanjanPatnaik/assets/75623505/db70565c-292f-4d4f-a48e-ba806e841e41" height="180px"/>
+    </td>
+  </tr>
 </tbody>
 </table>
-<br/>
-
-
-
-<p align="center">
-&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanPatnaik&theme=react&hide_border=true" height="150px"/>
-</p>
