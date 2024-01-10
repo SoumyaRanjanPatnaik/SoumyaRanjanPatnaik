@@ -15,7 +15,7 @@
     <td valign="center">
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/SoumyaRanjanPatnaik/VirtualDesktopQuest/" >Virtual Desktop Backend For Quest </a></li>
-        <li>💬 Ask me about <strong>Linux, Rust, Web Development and CXX</strong></li>
+        <li>💬 Ask me about <strong>Linux, Rust, Web Development, C and C++</strong></li>
         <li>📫 How to reach me <strong>soumyaranjan1812@gmail.com</strong></li>
       </ul>
     </td>
