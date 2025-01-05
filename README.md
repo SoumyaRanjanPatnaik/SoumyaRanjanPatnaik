@@ -14,9 +14,9 @@
     <td valign="top" align="center"><img src="https://cdn.dribbble.com/users/774083/screenshots/4723590/media/6669c96fc6eddd30baeb0a0099576fcc.gif" width="425px"/></td>
     <td valign="center">
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/SoumyaRanjanPatnaik/VirtualDesktopQuest/" >Virtual Desktop Backend For Quest </a></li>
-        <li>💬 Ask me about <strong>Linux, Rust, Web Development, C and C++</strong></li>
-        <li>📫 How to reach me <strong>soumyaranjan1812@gmail.com</strong></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/karya-inc/natural-language-query/" >Natural Language Querying</a> with role based access control</li>
+        <li>💬 Ask me about <strong>Linux, Rust, Web Development, Open Source, Python, C and C++</strong></li>
+        <li>📫 How to reach me <strong>oppurtunities@sranjan.co.in</strong></li>
       </ul>
     </td>
   </tr>
